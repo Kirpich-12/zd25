@@ -13,12 +13,6 @@ else:
     ans = '<'
 
 
-
-
-
-
-
-
 output_data = open('output.txt', 'w')
 output_data.write(ans)
 #запись
